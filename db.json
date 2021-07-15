@@ -1,12 +1,6 @@
-
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "versions": {
+    "minimum": "1.1.16",
+    "current": "1.1.18"
   }
 }
